@@ -3,9 +3,6 @@
 
 # MindCast
 
-![Preview-Screens](https://github.com/steniowagner/mindCast/blob/master/PUXA-R10!.png)
-
-If you want to take a look on all screens of the App, they are [here](https://drive.google.com/drive/folders/1rXFlogxaT5E0pthrrLhF1D_wOVbSHwhD).
 
 ## About this Project
 
@@ -19,9 +16,7 @@ _"Share knowledge in the form of podcasts, providing a simple way to learn"._
 
 This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
 
-Email-me: stenio.wagner1@gmail.com
 
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/).
 
 Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
 
@@ -32,14 +27,6 @@ It's free!
 1 - There's no functionality of Login/Register, the buttons and the forms in the Login Screen are only for UI matters.
 
 2 - The only option that works at _Settings_ screen it's toggle the Dark/Light theme, all the others are just for UI matters too.
-
-## Installers
-
-If you want to test the App in the Production mode, the installers are listed below:
-
-[Android .apk installer](https://drive.google.com/file/d/1LKgdu1WDPo8eU2NVjoB92TPi4my8QP4D/view?usp=sharing)
-
-iOS .ipa installer: Soon!
 
 ## Functionalities
 
@@ -130,36 +117,6 @@ _or_
 $ npm install
 ```
 
-### Connecting the App with the Server
-
-1 - Follow the instructions on the [mindcast-server](https://github.com/steniowagner/mindcast-server) to have the server up and running on your machine.
-
-2 - With the server up and running, go to the [/.env.development](https://github.com/steniowagner/mindCast/blob/master/.env.development) file and edit the SERVER_URL value for the IP of your machine (you can have some issues with _localhost_ if you're running on an android physical device, but you can use localhost safely on iOS).
-
-It should looks like this:
-
-SERVER_URL=http://**_IP_OF_YOUR_MACHINE_**:3001/mind-cast/api/v1
-
-*or*
-
-SERVER_URL=http://localhost:3001/mind-cast/api/v1
-
-### Running
-
-With all dependencies installed and the environment properly configured, you can now run the app:
-
-Android
-
-```
-$ react-native run-android
-```
-
-iOS
-
-```
-$ react-native run-ios
-```
-
 ## Built With
 
 - [React-Native](https://facebook.github.io/react-native/) - Build the native app using JavaScript and React
@@ -193,12 +150,4 @@ $ react-native run-ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: stenio.wagner1@gmail.com
-
-Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
-
 Thank you!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/steniowagner/mindCast/blob/master/LICENSE) file for details
