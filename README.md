@@ -3,31 +3,6 @@
 
 # MindCast
 
-
-## About this Project
-
-The idea of the App is:
-
-_"Share knowledge in the form of podcasts, providing a simple way to learn"._
-
-**PS:** Podcasts was just the context choosed by me for this project, but all the code inside this app can be reused for any app that has audio-streaming as domain, so you can reuse everything here in your next music-player, podcast-library or anything inside this context!
-
-## Why?
-
-This project is part of my personal portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
-
-
-
-Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
-
-It's free!
-
-## Some Observations about this App
-
-1 - There's no functionality of Login/Register, the buttons and the forms in the Login Screen are only for UI matters.
-
-2 - The only option that works at _Settings_ screen it's toggle the Dark/Light theme, all the others are just for UI matters too.
-
 ## Functionalities
 
 - Choose your interests (all, technology, philosfy, science, business, pop-culture or history - it will be used to make requests in order to have a personalized app with what the user want to hear about)
@@ -86,36 +61,6 @@ It's free!
 - Settings
 
 	- Choose between the Dark and Light theme
-
-## Getting Started
-
-### Prerequisites
-
-To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://facebook.github.io/react-native/docs/getting-started).
-
-Also, you'll need to the server running locally on your machine with the mock data. You can find the server and all the instructions to start the server [here](https://github.com/steniowagner/mindcast-server).
-
-### Installing
-
-**Cloning the Repository**
-
-```
-$ git clone https://github.com/steniowagner/mindCast
-
-$ cd mindCast
-```
-
-**Installing dependencies**
-
-```
-$ yarn
-```
-
-_or_
-
-```
-$ npm install
-```
 
 ## Built With
 
