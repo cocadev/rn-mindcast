@@ -3,6 +3,8 @@
 
 # MindCast
 
+<img src="screenshots/1.jpg" width="98%" />
+
 ## Functionalities
 
 - Choose your interests (all, technology, philosfy, science, business, pop-culture or history - it will be used to make requests in order to have a personalized app with what the user want to hear about)
