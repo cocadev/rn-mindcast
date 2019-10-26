@@ -3,7 +3,7 @@
 
 # MindCast
 
-<img src="screenshots/1.jpg" width="98%" />
+<img src="screenshots/1.png" width="98%" />
 
 ## Functionalities
 
