@@ -1,7 +1,7 @@
 
 
 
-# MindCast
+# MindCast react-native app
 
 <img src="screenshots/1.png" width="98%" />
 
