@@ -1,7 +1,7 @@
 
 
 
-# MindCast react-native app
+# MindCast react-native UI challenge App
 
 <img src="screenshots/1.png" width="98%" />
 
